@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/ABKAM2023/RoundEndThings/total?style=for-the-badge)
+
 **RoundEndThings** – это плагин, который изменяет параметры игры в конце раунда.  
 
 ## Возможности
